@@ -1,5 +1,7 @@
 # Applied Data Science Project 4: End-to-End Machine Learning
 
+## Overview 
+
 This project analyzes whether daily stock direction can be predicted for four large-cap technology stocks: **AAPL, NFLX, MSFT, and AMZN**. The workflow uses Yahoo Finance data, technical-indicator feature engineering, unsupervised PCA/k-means clustering, and supervised ML models.
 
 The main supervised models are:
